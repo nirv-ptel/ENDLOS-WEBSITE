@@ -1,0 +1,4 @@
+[15-Oct-2022 07:26:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "success" in /home2/endloskgv/public_html/assets/php/form-process.php:48
+Stack trace:
+#0 {main}
+  thrown in /home2/endloskgv/public_html/assets/php/form-process.php on line 48
